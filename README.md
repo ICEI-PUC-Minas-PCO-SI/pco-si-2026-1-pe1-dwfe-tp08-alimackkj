@@ -10,5 +10,5 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Prints do console do navegador
 
-<img src: pratica8.png >
-<img src:Captura de Tela (5).png>
+<img src = "pratica8.png" >
+<img src = "Captura de Tela (5).png">
